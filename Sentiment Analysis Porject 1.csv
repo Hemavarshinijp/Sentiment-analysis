@@ -1,0 +1,21 @@
+annotation_id,annotator,created_at,id,lead_time,sentiment,text,updated_at
+,,,,,,,
+1,1,2025-06-27T05:13:49.938643Z,1,143.242,Positive,"I love this product, it's amazing!",2025-06-27T05:13:49.938694Z
+,,,,,,,
+2,1,2025-06-27T05:13:54.907387Z,2,4.147,Negative,The delivery was late and the item was broken.,2025-06-27T05:13:54.907435Z
+,,,,,,,
+3,1,2025-06-27T05:13:58.429852Z,3,3.127,Neutral,"It's okay, nothing special.",2025-06-27T05:13:58.429865Z
+,,,,,,,
+4,1,2025-06-27T05:14:01.752801Z,4,2.979,Positive,Absolutely fantastic experience.,2025-06-27T05:14:01.752818Z
+,,,,,,,
+5,1,2025-06-27T05:14:06.176476Z,5,3.764,Negative,Worst customer service ever.,2025-06-27T05:14:06.176500Z
+,,,,,,,
+6,1,2025-06-27T05:14:10.207432Z,6,3.659,Neutral,I'm not sure how I feel about this.,2025-06-27T05:14:10.207448Z
+,,,,,,,
+7,1,2025-06-27T05:14:16.782004Z,7,5.881,Neutral,"The color is nice, but it feels cheap.",2025-06-27T05:14:16.782038Z
+,,,,,,,
+8,1,2025-06-27T05:14:21.349128Z,8,4.133,Positive,Exceeded my expectations!,2025-06-27T05:14:21.349146Z
+,,,,,,,
+9,1,2025-06-27T05:14:25.291289Z,9,3.273,Negative,Would not recommend to anyone.,2025-06-27T05:14:25.291334Z
+,,,,,,,
+10,1,2025-06-27T05:14:28.686505Z,10,3.008,Neutral,"Neutral thoughts, no strong feelings.",2025-06-27T05:14:28.686519Z
